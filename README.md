@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Darell Linn👋
 
 <!--
 **darelllien/darelllien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@nabawitv**
+- 🔭 I’m currently intern on **Front-End Developer @dibimbing**
+- 🌱 I’m currently learning **Golang & Astro Framework**
